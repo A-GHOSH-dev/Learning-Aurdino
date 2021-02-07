@@ -40,6 +40,7 @@ void loop(){
     //ground latchPin and hold low for as long as you are transmitting
     digitalWrite(latchPin,LOW);
     //MSBFIRST is Most Significant Bit First and LSBFIRST means Least Significant Bit first//0b00000111 so here MSB is first digit that is 0, and LSB is last digit that is 1
+   //shiftOut takes arguments- Serial input pin, clockpin, MSBFIRST, binary number that we want to enter into the shift register
     shiftOut(dataPin,clockPin, MSBFIRST,data);
     //return the latchPin high to signal chip that it will copy data from shift register to storage register
     digitalWrite(latchPin,High);
