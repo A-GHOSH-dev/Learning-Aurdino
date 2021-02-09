@@ -16,5 +16,7 @@ CS-10
 CLK-11
 DIN-12
 
+![My circuit for scrolling text](https://user-images.githubusercontent.com/75447439/107392469-b8971780-6b1f-11eb-8410-96e9031de58f.png)
+
 
 
