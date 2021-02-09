@@ -1,7 +1,6 @@
 /***************************************************
  * 8x8 LED MATRIX PROJECT
 scrolling text massege by using array
-written by RAJIV PARBAT
 **************************************************
 */
 
