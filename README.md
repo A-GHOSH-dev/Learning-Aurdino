@@ -7,3 +7,4 @@
 ![shift register](https://user-images.githubusercontent.com/75447439/107151498-e39b3300-6988-11eb-95c5-801b07adcc5d.png)
 ![shift registers](https://user-images.githubusercontent.com/75447439/107151502-e5fd8d00-6988-11eb-8897-b4b65059a78b.png)
 ![Picture1](https://user-images.githubusercontent.com/75447439/107339114-51a73d80-6ae2-11eb-871e-4778486fb77b.png)
+Max7219
